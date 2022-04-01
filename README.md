@@ -1,16 +1,27 @@
-### Hi there 👋
+# Yasser Nasser Ahmed
+A Senior Systems & Biomedical Engineering Student who is interested in developing software and loves to learn more.
+## 📝 Resume 
 
-<!--
-**yasser1412/yasser1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://drive.google.com/file/d/1Nf-uWc5sCap7-fStzreinPFIWTI4wJTc/view" type="application/pdf">
+  <img src="Yasser_Nasser.PNG" alt="Yasser Nasser | Resume" width="300">
+</a>
 
-Here are some ideas to get you started:
+--------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasser1412&exclude_repo=IOT-Tasks,FullScene-CG&hide=html&layout=compact&theme=react&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🛠 Languages & Technologies
+
+<code><img height="20" alt="C++" src="https://i.imgur.com/QTP0zhp.png"></code>
+<code><img height="20" alt="python" src="https://i.imgur.com/SJzjyHp.png"></code>
+<code><img height="20" alt="js" src="https://i.imgur.com/R0BfmBL.png"></code>
+<code><img height="20" alt="nodejs" src="https://i.imgur.com/Hi7Betu.png"></code>
+<code><img height="20" alt="mongoDB" src="https://i.imgur.com/uemLvhs.png"></code>
+<code><img height="20" alt="typescript" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQgejJN-rCHaZV5fCYU-_CApY-VWTcC3xqqg&usqp=CAU"></code>
+<code><img height="20" alt="postgresql" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9x2WNatiI59YTTrTKnpgPH0yIC8CF9xWwhg&usqp=CAU"></code>
+<code><img height="20" alt="flutter" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRglnUsnfLyIofsJrCffEJFJiT688ztJEAJ_Q&usqp=CAU"></code>
+<code><img height="20" alt="mySQL" src="https://i.imgur.com/2bScz0p.png"></code>
+<code><img height="20" alt="git" src="https://i.imgur.com/cSu4jhA.png"></code>
