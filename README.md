@@ -11,7 +11,7 @@ A Senior Systems & Biomedical Engineering Student who is interested in developin
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasser1412&exclude_repo=IOT-Tasks,FullScene-CG&hide=html&layout=compact&theme=react&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasser1412&exclude_repo=FullScene-CG,CV-Tasks&hide=html&layout=compact&theme=react&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠 Languages & Technologies
 
