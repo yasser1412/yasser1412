@@ -1,6 +1,12 @@
+<div align="center">
+
 # Yasser Nasser Ahmed
-A Senior Systems & Biomedical Engineering Student who is interested in developing software and loves to learn more.
-## 📝 Resume 
+
+- A Senior Systems & Biomedical Engineering <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
+- Interested in Back-End Development, Databases
+- Self-Motivated to learn more.
+
+## 📝 Resume
 
 <a href="https://drive.google.com/file/d/1Nf-uWc5sCap7-fStzreinPFIWTI4wJTc/view" type="application/pdf">
   <img src="Yasser_Nasser.PNG" alt="Yasser Nasser | Resume" width="300">
@@ -8,10 +14,7 @@ A Senior Systems & Biomedical Engineering Student who is interested in developin
 
 --------
 
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasser1412&exclude_repo=FullScene-CG,CV-Tasks&hide=html&layout=compact&theme=react&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasser1412&exclude_repo=FullScene-CG,CV-Tasks&hide=html&layout=compact&theme=react&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠 Languages & Technologies
 
@@ -25,3 +28,6 @@ A Senior Systems & Biomedical Engineering Student who is interested in developin
 <code><img height="20" alt="flutter" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRglnUsnfLyIofsJrCffEJFJiT688ztJEAJ_Q&usqp=CAU"></code>
 <code><img height="20" alt="mySQL" src="https://i.imgur.com/2bScz0p.png"></code>
 <code><img height="20" alt="git" src="https://i.imgur.com/cSu4jhA.png"></code>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasser1412&count_private=true&show_icons=true&theme=radical)
+</div>
